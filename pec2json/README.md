@@ -1,0 +1,2 @@
+- 谱面格式转换核心代码引用了 https://github.com/lchzh3473/sim-phi
+- 遵循GPL-3.0 协议

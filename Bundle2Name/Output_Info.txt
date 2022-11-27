@@ -1,0 +1,187 @@
+未处理对象：
+03465956848e1b3356a3e202778df94e.bundle numOfNotes:1069 - bpm:209.0 未查找到数据
+109c07484513a5c848abbedee6c8744b.bundle numOfNotes:300 - bpm:185.0 未查找到数据
+140a39b718bc5324880aa6f2f67c4f9d.bundle numOfNotes:713 - bpm:180.0 未查找到数据
+1699e3090e381d75fdbc6d119afa0738.bundle numOfNotes:366 - bpm:216.0 未查找到数据
+17c387d2754a862a5fcce6dfb5899ded.bundle numOfNotes:489 - bpm:200.0 未查找到数据
+1a1e17efd5c87fd316f3ba2100021db6.bundle numOfNotes:299 - bpm:192.0 未查找到数据
+320359bc2772d52d8a0136dd0d777c3e.bundle numOfNotes:50 - bpm:180.0 未查找到数据
+4059635d5ae596f020d316d7e1022fdb.bundle numOfNotes:755 - bpm:200.0 未查找到数据
+438ef3beaf8e839b905cd59a3099c37f.bundle numOfNotes:830 - bpm:170.0 未查找到数据
+521890a408c297a6a4766993da4b598e.bundle numOfNotes:919 - bpm:185.0 未查找到数据
+5283ab6fcfc656671f11fc93c6f50e61.bundle numOfNotes:520 - bpm:216.0 未查找到数据
+52d2d0e185d69e9a80250dce8603287d.bundle numOfNotes:548 - bpm:193.0 未查找到数据
+598a8860df218bb958592712d3fd5378.bundle numOfNotes:83 - bpm:131.0 未查找到数据
+59d3062f3859fb950dfe6d77f4395e09.bundle numOfNotes:400 - bpm:180.0 未查找到数据
+62c1ffef2d5eb3779714aa7804004fdf.bundle numOfNotes:419 - bpm:175.0 未查找到数据
+632c724e5cd0d6904f2592a9f0e0ad0a.bundle numOfNotes:585 - bpm:150.0 未查找到数据
+643175a9b400c2d8378027789e8edb54.bundle numOfNotes:910 - bpm:185.0 未查找到数据
+6cd7c74be2d88289c5e267ff44f75b9a.bundle numOfNotes:755 - bpm:174.0 未查找到数据
+71e080a5767c09863b19edf99a842fdb.bundle numOfNotes:1148 - bpm:196.0 未查找到数据
+76a8c456faa1358ffb5872fdda59fe3f.bundle numOfNotes:533 - bpm:140.0 未查找到数据
+7871daaa02ec83db91a71e191b555ca1.bundle numOfNotes:259 - bpm:150.0 未查找到数据
+78cfec7bba27cfbdb0f6dc0a7c00c6b5.bundle numOfNotes:195 - bpm:170.0 未查找到数据
+7adbe279fc21d54d0979952349f97230.bundle numOfNotes:706 - bpm:131.0 未查找到数据
+820f0cfd5da62ef4202338e8a1df9fe4.bundle numOfNotes:445 - bpm:111.0 未查找到数据
+86a4710319b19ae7e9f6b19bef313c80.bundle numOfNotes:304 - bpm:188.0 未查找到数据
+86f59c777a990fdc69b2b6c6973ff2c8.bundle numOfNotes:660 - bpm:188.0 未查找到数据
+87f48f02a6af6953ebc84017e07e80c7.bundle numOfNotes:594 - bpm:188.0 未查找到数据
+8a9d4bb3b6e4df009373f00ad2135557.bundle numOfNotes:330 - bpm:174.0 未查找到数据
+8d0c1b2293263f90dd8f716cad804614.bundle numOfNotes:277 - bpm:209.0 未查找到数据
+9341754512a65d86e7440d9b942100d7.bundle numOfNotes:520 - bpm:222.0 未查找到数据
+a9b3afc968a332d8ac8fe8778e276904.bundle numOfNotes:1140 - bpm:150.0 未查找到数据
+aa6b5721084719add54d078882971885.bundle numOfNotes:533 - bpm:175.0 未查找到数据
+abf9e404ba44782844b9fc9dff813213.bundle numOfNotes:226 - bpm:200.0 未查找到数据
+ada9624add0c234d133678481deff9d8.bundle numOfNotes:422 - bpm:180.0 未查找到数据
+b74c38c78b02d0547e1350bcfce2fdcc.bundle numOfNotes:176 - bpm:131.0 未查找到数据
+b7a5d1676bf02066d30da69b21701441.bundle numOfNotes:226 - bpm:180.0 未查找到数据
+b98724b8f5a566f683dfeffb7ce42a65.bundle numOfNotes:1156 - bpm:170.0 未查找到数据
+bb369773e3663476ddf3b18ce1748b32.bundle numOfNotes:288 - bpm:140.0 未查找到数据
+
+数据表未匹配：
+{'name': '-Arkhei-', 'difficulty': 'EZ', 'numOfNotes': '462', 'bpm': '112.0'}
+{'name': '996', 'difficulty': 'IN', 'numOfNotes': '996', 'bpm': '140.0'}
+{'name': 'Another Me Kalpa', 'difficulty': 'IN', 'numOfNotes': '1449', 'bpm': '210.0'}
+{'name': 'Another me Rising', 'difficulty': 'HD', 'numOfNotes': '259', 'bpm': '175.0'}
+{'name': 'Another me Rising', 'difficulty': 'LE', 'numOfNotes': '549', 'bpm': '175.0'}
+{'name': 'Another round', 'difficulty': 'EZ', 'numOfNotes': '136', 'bpm': '128.0'}
+{'name': 'Aphasia', 'difficulty': 'HD', 'numOfNotes': '362', 'bpm': '128.0'}
+{'name': 'Aphasia', 'difficulty': 'IN', 'numOfNotes': '553', 'bpm': '128.0'}
+{'name': 'Apocalypse', 'difficulty': 'IN', 'numOfNotes': '676', 'bpm': '220.0'}
+{'name': 'Apocalyptic', 'difficulty': 'IN', 'numOfNotes': '676', 'bpm': '160.0'}
+{'name': 'Ark', 'difficulty': 'HD', 'numOfNotes': '523', 'bpm': '180.0'}
+{'name': 'Aventyr', 'difficulty': 'EZ', 'numOfNotes': '345', 'bpm': '132.0'}
+{'name': 'Aventyr', 'difficulty': 'HD', 'numOfNotes': '626', 'bpm': '132.0'}
+{'name': 'Aventyr', 'difficulty': 'IN', 'numOfNotes': '954', 'bpm': '132.0'}
+{'name': 'Better graphic animation', 'difficulty': 'EZ', 'numOfNotes': '178', 'bpm': '180.0'}
+{'name': 'Bonus time', 'difficulty': 'EZ', 'numOfNotes': '190', 'bpm': '180.0'}
+{'name': 'Bonus time', 'difficulty': 'IN', 'numOfNotes': '689', 'bpm': '180.0'}
+{'name': 'Bonus time', 'difficulty': 'LE', 'numOfNotes': '762', 'bpm': '180.0'}
+{'name': 'Burn', 'difficulty': 'EZ', 'numOfNotes': '278', 'bpm': '148.0'}
+{'name': 'Burn', 'difficulty': 'HD', 'numOfNotes': '497', 'bpm': '148.0'}
+{'name': 'Cereris', 'difficulty': 'EZ', 'numOfNotes': '470', 'bpm': '175.0'}
+{'name': 'Cervelle Connexion', 'difficulty': 'EZ', 'numOfNotes': '301', 'bpm': '142.0'}
+{'name': 'Cervelle Connexion', 'difficulty': 'HD', 'numOfNotes': '569', 'bpm': '142.0'}
+{'name': 'Chronologika', 'difficulty': 'IN', 'numOfNotes': '776', 'bpm': '180.0'}
+{'name': 'Chronomia', 'difficulty': 'IN', 'numOfNotes': '992', 'bpm': '227.0'}
+{'name': 'Chronos Collapse - La Campanella', 'difficulty': 'IN', 'numOfNotes': '1500', 'bpm': '180.0'}
+{'name': 'Chronostasis', 'difficulty': 'IN', 'numOfNotes': '1156', 'bpm': '196.0'}
+{'name': 'Cipher', 'difficulty': 'IN', 'numOfNotes': '969', 'bpm': '179.0'}
+{'name': 'Clock paradox', 'difficulty': 'EZ', 'numOfNotes': '188', 'bpm': '140.0'}
+{'name': 'Clock paradox', 'difficulty': 'IN', 'numOfNotes': '520', 'bpm': '140.0'}
+{'name': 'Concvssion', 'difficulty': 'EZ', 'numOfNotes': '450', 'bpm': '190.0'}
+{'name': 'Concvssion', 'difficulty': 'IN', 'numOfNotes': '1000', 'bpm': '190.0'}
+{'name': 'Confusion', 'difficulty': 'LE', 'numOfNotes': '753', 'bpm': '180.0'}
+{'name': 'Credits', 'difficulty': 'EZ', 'numOfNotes': '188', 'bpm': '179.0'}
+{'name': 'Credits', 'difficulty': 'IN', 'numOfNotes': '535', 'bpm': '179.0'}
+{'name': 'Cross Soul', 'difficulty': 'HD', 'numOfNotes': '892', 'bpm': '200.0'}
+{'name': 'Cryout', 'difficulty': 'EZ', 'numOfNotes': '221', 'bpm': '180.0'}
+{'name': 'Dash', 'difficulty': 'HD', 'numOfNotes': '210', 'bpm': '128.0'}
+{'name': 'Dash', 'difficulty': 'IN', 'numOfNotes': '346', 'bpm': '128.0'}
+{'name': 'Dash', 'difficulty': 'LE', 'numOfNotes': '296', 'bpm': '128.0'}
+{'name': 'dB doll', 'difficulty': 'HD', 'numOfNotes': '124', 'bpm': '128.0'}
+{'name': 'Dead Soul', 'difficulty': 'HD', 'numOfNotes': '613', 'bpm': '132.0'}
+{'name': 'Demiurge', 'difficulty': 'EZ', 'numOfNotes': '100', 'bpm': '111'}
+{'name': 'Demiurge', 'difficulty': 'HD', 'numOfNotes': '445', 'bpm': '111'}
+{'name': 'Demiurge', 'difficulty': 'IN', 'numOfNotes': '520', 'bpm': '111'}
+{'name': 'Demonkin', 'difficulty': 'EZ', 'numOfNotes': '426', 'bpm': '192.0'}
+{'name': "Don't never around", 'difficulty': 'EZ', 'numOfNotes': '308', 'bpm': '175.0'}
+{'name': "Don't never around", 'difficulty': 'IN', 'numOfNotes': '1028', 'bpm': '175.0'}
+{'name': 'Doppelganger', 'difficulty': 'HD', 'numOfNotes': '437', 'bpm': '140.0'}
+{'name': 'Doppelganger', 'difficulty': 'LE', 'numOfNotes': '746', 'bpm': '140.0'}
+{'name': 'Dreamland', 'difficulty': 'HD', 'numOfNotes': '476', 'bpm': '120.0'}
+{'name': 'Drop it', 'difficulty': 'HD', 'numOfNotes': '602', 'bpm': '126.0'}
+{'name': 'Drop it', 'difficulty': 'LE', 'numOfNotes': '912', 'bpm': '126.0'}
+{'name': 'Electron', 'difficulty': 'EZ', 'numOfNotes': '219', 'bpm': '134.0'}
+{'name': 'End me', 'difficulty': 'HD', 'numOfNotes': '320', 'bpm': '120.0'}
+{'name': 'End me', 'difficulty': 'IN', 'numOfNotes': '724', 'bpm': '120.0'}
+{'name': 'Energy synergy matrix', 'difficulty': 'HD', 'numOfNotes': '468', 'bpm': '160.0'}
+{'name': 'Engine x Start', 'difficulty': 'LE', 'numOfNotes': '564', 'bpm': '186.0'}
+{'name': 'Eradication Catastrophe', 'difficulty': 'EZ', 'numOfNotes': '111', 'bpm': '120.0'}
+{'name': 'Final Step', 'difficulty': 'EZ', 'numOfNotes': '355', 'bpm': '180.0'}
+{'name': 'Find_Me', 'difficulty': 'HD', 'numOfNotes': '657', 'bpm': '191.0'}
+{'name': 'Find_Me', 'difficulty': 'IN', 'numOfNotes': '836', 'bpm': '191.0'}
+{'name': 'Fuli Auto buster', 'difficulty': 'HD', 'numOfNotes': '596', 'bpm': '145.0'}
+{'name': 'Glaciaxion', 'difficulty': 'IN', 'numOfNotes': '729', 'bpm': '140.0'}
+{'name': 'Glaciaxion', 'difficulty': 'LE', 'numOfNotes': '611', 'bpm': '140.0'}
+{'name': 'Goodbounce', 'difficulty': 'HD', 'numOfNotes': '797', 'bpm': '180.0'}
+{'name': 'Goodbounce', 'difficulty': 'IN', 'numOfNotes': '898', 'bpm': '180.0'}
+{'name': 'Goodfortune', 'difficulty': 'HD', 'numOfNotes': '733', 'bpm': '170.0'}
+{'name': 'Goodrage', 'difficulty': 'IN', 'numOfNotes': '1034', 'bpm': '222.0'}
+{'name': 'Human', 'difficulty': 'LE', 'numOfNotes': '651', 'bpm': '180.0'}
+{'name': 'Igallta', 'difficulty': 'EZ', 'numOfNotes': '414', 'bpm': '230.0'}
+{'name': 'Igallta', 'difficulty': 'AT', 'numOfNotes': '1114', 'bpm': '230.0'}
+{'name': 'Infinite Enerzy', 'difficulty': 'HD', 'numOfNotes': '666', 'bpm': '180.0'}
+{'name': 'Infinite Enerzy', 'difficulty': 'AT', 'numOfNotes': '888', 'bpm': '180.0'}
+{'name': 'Infinity Heaven', 'difficulty': 'IN', 'numOfNotes': '1029', 'bpm': '160.0'}
+{'name': 'Initialize', 'difficulty': 'HD', 'numOfNotes': '354', 'bpm': '128.0'}
+{'name': 'Kerberos', 'difficulty': 'EZ', 'numOfNotes': '262', 'bpm': '197.0'}
+{'name': 'Kerberos', 'difficulty': 'HD', 'numOfNotes': '683', 'bpm': '197.0'}
+{'name': 'Khronostasis Katharsis', 'difficulty': 'LE', 'numOfNotes': '883', 'bpm': '188.0'}
+{'name': 'Life flashes before weeb eyes', 'difficulty': 'HD', 'numOfNotes': '960', 'bpm': '227.0'}
+{'name': 'Life flashes before weeb eyes', 'difficulty': 'IN', 'numOfNotes': '1065', 'bpm': '227.0'}
+{'name': 'Luminescent', 'difficulty': 'IN', 'numOfNotes': '650', 'bpm': '141.0'}
+{'name': 'Lyrith', 'difficulty': 'HD', 'numOfNotes': '700', 'bpm': '177.0'}
+{'name': 'Lyrith', 'difficulty': 'AT', 'numOfNotes': '1236', 'bpm': '177.0'}
+{'name': 'Marenol', 'difficulty': 'EZ', 'numOfNotes': '95', 'bpm': '140.0'}
+{'name': 'Marenol', 'difficulty': 'LE', 'numOfNotes': '1368', 'bpm': '140.0'}
+{'name': 'Micro.wav', 'difficulty': 'IN', 'numOfNotes': '649', 'bpm': '172.0'}
+{'name': 'Miracle forest', 'difficulty': 'EZ', 'numOfNotes': '323', 'bpm': '192.0'}
+{'name': 'Miracle forest', 'difficulty': 'LE', 'numOfNotes': '917', 'bpm': '192.0'}
+{'name': 'Modulus', 'difficulty': 'HD', 'numOfNotes': '482', 'bpm': '158.0'}
+{'name': 'Next Time', 'difficulty': 'HD', 'numOfNotes': '303', 'bpm': '175.0'}
+{'name': 'Nhelv', 'difficulty': 'EZ', 'numOfNotes': '196', 'bpm': '174.58999633789062'}
+{'name': 'Nick of time', 'difficulty': 'EZ', 'numOfNotes': '328', 'bpm': '175.0'}
+{'name': 'No one yes man', 'difficulty': 'EZ', 'numOfNotes': '394', 'bpm': '170.0'}
+{'name': 'No one yes man', 'difficulty': 'HD', 'numOfNotes': '612', 'bpm': '170.0'}
+{'name': 'No one yes man', 'difficulty': 'IN', 'numOfNotes': '844', 'bpm': '170.0'}
+{'name': 'Non-Melodic Ragez', 'difficulty': 'EZ', 'numOfNotes': '221', 'bpm': '205.0'}
+{'name': 'Non-Melodic Ragez', 'difficulty': 'LE', 'numOfNotes': '1028', 'bpm': '205.0'}
+{'name': 'Nya', 'difficulty': 'HD', 'numOfNotes': '428', 'bpm': '154.0'}
+{'name': 'opia', 'difficulty': 'EZ', 'numOfNotes': '233', 'bpm': '193.0'}
+{'name': 'opia', 'difficulty': 'HD', 'numOfNotes': '549', 'bpm': '193.0'}
+{'name': 'Orthodox', 'difficulty': 'IN', 'numOfNotes': '962', 'bpm': '170.0'}
+{'name': 'Parallel retrogression', 'difficulty': 'EZ', 'numOfNotes': '507', 'bpm': '175.0'}
+{'name': 'Parallel retrogression', 'difficulty': 'HD', 'numOfNotes': '697', 'bpm': '175.0'}
+{'name': 'Parsley', 'difficulty': 'HD', 'numOfNotes': '449', 'bpm': '180.0'}
+{'name': 'Pixel Rebelz', 'difficulty': 'EZ', 'numOfNotes': '250', 'bpm': '150.0'}
+{'name': 'Pixel Rebelz', 'difficulty': 'IN', 'numOfNotes': '941', 'bpm': '150.0'}
+{'name': 'Pixel Rebelz', 'difficulty': 'LE', 'numOfNotes': '961', 'bpm': '150.0'}
+{'name': 'Praw', 'difficulty': 'LE', 'numOfNotes': '817', 'bpm': '210.0'}
+{'name': 'Protoflicker', 'difficulty': 'IN', 'numOfNotes': '1210', 'bpm': '140.0'}
+{'name': 'Ressistance', 'difficulty': 'EZ', 'numOfNotes': '499', 'bpm': '205.0'}
+{'name': 'Ripper', 'difficulty': 'LE', 'numOfNotes': '1093', 'bpm': '150.0'}
+{'name': "Rrhar'il", 'difficulty': 'AT', 'numOfNotes': '1300', 'bpm': '190.0'}
+{'name': 'Shadow', 'difficulty': 'EZ', 'numOfNotes': '393', 'bpm': '172.0'}
+{'name': 'Shadow', 'difficulty': 'HD', 'numOfNotes': '549', 'bpm': '172.0'}
+{'name': 'Snow Desert', 'difficulty': 'HD', 'numOfNotes': '534', 'bpm': '125.0'}
+{'name': 'Sparkle New Life', 'difficulty': 'IN', 'numOfNotes': '684', 'bpm': '150.0'}
+{'name': 'Spasmodic', 'difficulty': 'EZ', 'numOfNotes': '637', 'bpm': '200.0'}
+{'name': 'Speed Up', 'difficulty': 'IN', 'numOfNotes': '711', 'bpm': '145.0'}
+{'name': 'Stasis', 'difficulty': 'HD', 'numOfNotes': '902', 'bpm': '180.0'}
+{'name': 'Stasis', 'difficulty': 'AT', 'numOfNotes': '1700', 'bpm': '180.0'}
+{'name': 'Volcanic', 'difficulty': 'AT', 'numOfNotes': '1650', 'bpm': '191.0'}
+{'name': 'Water', 'difficulty': 'EZ', 'numOfNotes': '338', 'bpm': '170.0'}
+{'name': 'Water', 'difficulty': 'HD', 'numOfNotes': '703', 'bpm': '170.0'}
+{'name': 'Winter Cube', 'difficulty': 'EZ', 'numOfNotes': '401', 'bpm': '104.0'}
+{'name': 'Winter Cube', 'difficulty': 'LE', 'numOfNotes': '909', 'bpm': '104.0'}
+{'name': 'With you', 'difficulty': 'IN', 'numOfNotes': '774', 'bpm': '170.0'}
+{'name': '万吨匿名信', 'difficulty': 'HD', 'numOfNotes': '648', 'bpm': '120.0'}
+{'name': '万吨匿名信', 'difficulty': 'LE', 'numOfNotes': '857', 'bpm': '120.0'}
+{'name': '云女孩', 'difficulty': 'EZ', 'numOfNotes': '220', 'bpm': '155.0'}
+{'name': '云女孩', 'difficulty': 'LE', 'numOfNotes': '740', 'bpm': '155.0'}
+{'name': '光', 'difficulty': 'LE', 'numOfNotes': '532', 'bpm': '180.0'}
+{'name': '华灯爱（華灯爱）', 'difficulty': 'LE', 'numOfNotes': '493', 'bpm': '120.0'}
+{'name': '开心病', 'difficulty': 'HD', 'numOfNotes': '442', 'bpm': '131.0'}
+{'name': '开心病', 'difficulty': 'IN', 'numOfNotes': '840', 'bpm': '131.0'}
+{'name': '开心病', 'difficulty': 'LE', 'numOfNotes': '815', 'bpm': '131.0'}
+{'name': '望影（望影の方舟）', 'difficulty': 'EZ', 'numOfNotes': '276', 'bpm': '209.0'}
+{'name': '望影（望影の方舟）', 'difficulty': 'HD', 'numOfNotes': '526', 'bpm': '209.0'}
+{'name': '樱树街道（桜树街道）', 'difficulty': 'EZ', 'numOfNotes': '292', 'bpm': '135.0'}
+{'name': '游园地', 'difficulty': 'IN', 'numOfNotes': '481', 'bpm': '128.0'}
+{'name': '狂喜兰舞（狂喜蘭舞）', 'difficulty': 'EZ', 'numOfNotes': '472', 'bpm': '230.0'}
+{'name': '狂喜兰舞（狂喜蘭舞）', 'difficulty': 'LE', 'numOfNotes': '954', 'bpm': '230.0'}
+{'name': '萤火虫（萤火虫の怨）', 'difficulty': 'EZ', 'numOfNotes': '245', 'bpm': '200.0'}
+{'name': '萤火虫（萤火虫の怨）', 'difficulty': 'LE', 'numOfNotes': '875', 'bpm': '200.0'}
+{'name': '重生', 'difficulty': 'HD', 'numOfNotes': '650', 'bpm': '195.0'}
+{'name': '风屿', 'difficulty': 'IN', 'numOfNotes': '1155', 'bpm': '170.0'}

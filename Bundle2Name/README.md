@@ -1,0 +1,2 @@
+- 物量数据引用了 https://github.com/Hydroge/Phigros_Charts_Stats
+- 数据集遵循署名-非商业性使用-禁止演绎 3.0 未本地化版本 (CC BY-NC-ND 3.0)协议。
